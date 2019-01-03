@@ -1,0 +1,14 @@
+Pembaruan : 09.mrt.18
+
+- Kamu dapat mengupdate versi phpmailer dengan mengunduh di https://github.com/PHPMailer/PHPMailer
+lalu kalian bisa taruh folder src phpmailer di modules/src/
+- Bug encrypt kata di subject
+- Trik header sudah kami berikan :) selamat menikmati. 
+- Pembaruan phpmailer versi terbaru.
+
+Pembaruan : 26.apr.18
+
+- Custom Header (Get to server bmarket)
+- Auto convert HTML to PDF (auto add to attachments)
+
+
